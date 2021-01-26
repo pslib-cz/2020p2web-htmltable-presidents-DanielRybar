@@ -1,0 +1,33 @@
+td, th, table{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    font-family: Times, serif;
+    padding: 4px; 
+}
+table{
+    width: 100%;
+    border-bottom: 4px solid black;
+}
+thead{
+    border-bottom: 4px solid black;
+}
+.t1 {
+    background-color: #D7CCC8;
+}
+.t2 {
+    background-color: #90CAF9;
+}
+.t3 {
+    background-color: #F8BBD0;
+}
+.GH {
+    background-color: red;
+    color: yellow;
+}
+.VH {
+    background-color: blue;
+    color: yellow;
+}
+.bp td {
+    color: gray;
+}
